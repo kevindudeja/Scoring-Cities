@@ -1,3 +1,10 @@
+### Update:
+1. Short of time in the hackathon, we scraped the websites of data of just districts of one city.
+2. Presented our idea as a webapp with a nice UI
+3. If we had more regular data, we can make algorithms to predict which district would be the best to live in, in the next 5 years
+4. Yes, this application is already present and running in US (www.areavibes.com)
+5. But, because I randomly thought of this one day that it would be nice if I knew more about the city before buying a house, it was always in the back of my head, so I enjoyed taking this from a idea stage to a prototype stage. Good fun!
+
 # Scoring-Cities
 Helping citizens understand their sectors and cities better with a Scoring and Weightage model
 
